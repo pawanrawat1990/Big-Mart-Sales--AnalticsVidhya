@@ -6,3 +6,4 @@ The data scientists at BigMart have collected 2013 sales data for 1559 products 
 
 For this project, i am using XG boost and random forest models in R and python.
 
+Evaluation Metric - RMSE
